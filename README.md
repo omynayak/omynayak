@@ -8,7 +8,7 @@ I am (somewhat) proficient in the following programming languages:
 ---
 Feel free to reach out to me for any project collaborations!
 ---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omynayak&show_icons=true&locale=en&layout=compact" alt="omynayak" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akritisshetty&show_icons=true&locale=en&layout=compact" alt="omynayak" /></p>
 
 
 

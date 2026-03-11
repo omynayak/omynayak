@@ -1,10 +1,11 @@
 # Hey, I am Om.
 I am an engineering student who loves spending time designing low level systems and writing signal processing scripts.
 ## Tech stack:
-I am (somewhat) proficient in the following programming languages:
+I am (somewhat) proficient in the following programming / HD languages:
 - C
 - C++
 - Python
+- Verilog HDL
 ---
 Feel free to reach out to me for any project collaborations!
 ---
